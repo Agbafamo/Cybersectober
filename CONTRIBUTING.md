@@ -64,6 +64,6 @@ PRs opened by **October 31** count, even if they're merged in November.
 
 ## Need help?
 
-Ask in the issue, in our community chat, or email damilolaabiona8@gmail.com. No question is too basic.
+Ask in the issue, in our community chat, or email dearlolami@gmail.com. No question is too basic.
 
 **October ends. The knowledge stays.**

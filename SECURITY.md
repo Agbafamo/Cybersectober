@@ -4,7 +4,7 @@
 
 If you find a problem with the content in this repository (broken links,
 inaccurate information, unsafe examples, or content that violates our safety
-rules), please email **damilolaabiona8@gmail.com** or open a
+rules), please email **dearlolami@gmail.com** or open a
 [Bug/broken content](../../issues/new/choose) issue.
 
 ## Real product vulnerabilities

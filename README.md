@@ -68,7 +68,7 @@ Everything here is for **education and defense**. No malware, credential stealer
 
 ## 🤝 Get involved
 
-- 🙋 Become a mentor or reviewer: open an issue or email damilolaabiona8@gmail.com
+- 🙋 Become a mentor or reviewer: open an issue or email dearlolami@gmail.com
 - 🎓 Campus ambassadors: bring your classmates to their first contribution
 - 🏢 Partners: sponsor a track or a challenge
 
