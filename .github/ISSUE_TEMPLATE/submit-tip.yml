@@ -1,0 +1,51 @@
+name: Submit a tip or resource
+description: Share a security tip, guide, or resource — no code required.
+title: "[Tip] "
+labels: []
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+      description: How you'd like to be credited.
+      placeholder: e.g. Ada Lovelace
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: GitHub username (optional)
+      description: So we can tag you when it's added.
+      placeholder: e.g. @adalovelace
+    validations:
+      required: false
+  - type: dropdown
+    id: track
+    attributes:
+      label: Track
+      description: Which track does this belong to?
+      options:
+        - Cyber Awareness
+        - Web & API Security
+        - AI Security
+        - Community / Translation
+    validations:
+      required: true
+  - type: textarea
+    id: content
+    attributes:
+      label: Your tip or resource
+      description: Write your security tip, paste a link, or describe what you'd like to contribute.
+      placeholder: |
+        **Never click links in SMS messages claiming to be your bank.** Go directly to the bank's app or website instead.
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: What language is this in?
+      placeholder: e.g. English, Yoruba, Pidgin
+      value: English
+    validations:
+      required: false

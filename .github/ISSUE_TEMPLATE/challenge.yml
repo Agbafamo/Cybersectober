@@ -1,0 +1,59 @@
+name: Challenge
+description: "[Maintainers] Post a starter challenge for contributors."
+title: "[Challenge] "
+labels: []
+body:
+  - type: dropdown
+    id: track
+    attributes:
+      label: Track
+      options:
+        - awareness
+        - api-security
+        - ai-security
+        - community
+    validations:
+      required: true
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty
+      options:
+        - beginner
+        - intermediate
+        - advanced
+    validations:
+      required: true
+  - type: input
+    id: points
+    attributes:
+      label: Points
+      description: How many points is this worth?
+      placeholder: e.g. 5
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What to build
+      description: Describe the challenge clearly. Include context, audience, and scope.
+    validations:
+      required: true
+  - type: textarea
+    id: done-when
+    attributes:
+      label: Done when
+      description: What does a complete submission look like?
+      placeholder: |
+        - A Markdown file in `awareness/` with the YAML header filled in
+        - At least 5 actionable tips
+        - Plain language suitable for non-technical readers
+    validations:
+      required: true
+  - type: textarea
+    id: resources
+    attributes:
+      label: Helpful resources
+      description: Links or references to help the contributor.
+    validations:
+      required: false

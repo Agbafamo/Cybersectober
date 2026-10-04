@@ -1,0 +1,27 @@
+name: Bug / broken content
+description: Report broken links, inaccurate information, or formatting issues.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: File or page
+      description: Which file or page has the problem?
+      placeholder: e.g. awareness/tips.md
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What's wrong?
+      description: Describe the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested fix (optional)
+      description: If you know what it should say instead, include it here.
+    validations:
+      required: false

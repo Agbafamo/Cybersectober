@@ -1,0 +1,13 @@
+# CyberSecTOBER Code Owners
+# Each track has designated mentors who review contributions.
+# Replace placeholder handles with actual GitHub usernames.
+
+# Global
+* @cybersectober/maintainers
+
+# Track owners
+/awareness/ @cybersectober/awareness-mentors
+/api-security/ @cybersectober/api-security-mentors
+/ai-security/ @cybersectober/ai-security-mentors
+/community/ @cybersectober/community-mentors
+/templates/ @cybersectober/maintainers
