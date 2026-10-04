@@ -62,6 +62,15 @@ Contribute to any track, any week.
 
 **Specialty badges:** Community Defender · AI Security Pioneer · API Defender · Lab Builder · Open Source Mentor · CyberSecTOBER Champion
 
+## 🎖️ Badges
+
+<table>
+<tr><td align="center" width="25%"><img src="badges/first-contribution.png" width="110" alt="First Contribution badge"><br><sub><b>First Contribution</b></sub></td><td align="center" width="25%"><img src="badges/security-contributor.png" width="110" alt="Security Contributor badge"><br><sub><b>Security Contributor</b></sub></td><td align="center" width="25%"><img src="badges/security-builder.png" width="110" alt="Security Builder badge"><br><sub><b>Security Builder</b></sub></td><td align="center" width="25%"><img src="badges/security-champion.png" width="110" alt="Security Champion badge"><br><sub><b>Security Champion</b></sub></td></tr>
+<tr><td align="center" width="25%"><img src="badges/cyber-guardian.png" width="110" alt="Cyber Guardian badge"><br><sub><b>Cyber Guardian</b></sub></td><td align="center" width="25%"><img src="badges/awareness-advocate.png" width="110" alt="Awareness Advocate badge"><br><sub><b>Awareness Advocate</b></sub></td><td align="center" width="25%"><img src="badges/signal-booster.png" width="110" alt="Signal Booster badge"><br><sub><b>Signal Booster</b></sub></td><td align="center" width="25%"><img src="badges/awareness-ambassador.png" width="110" alt="Awareness Ambassador badge"><br><sub><b>Awareness Ambassador</b></sub></td></tr>
+<tr><td align="center" width="25%"><img src="badges/community-defender.png" width="110" alt="Community Defender badge"><br><sub><b>Community Defender</b></sub></td><td align="center" width="25%"><img src="badges/ai-security-pioneer.png" width="110" alt="AI Security Pioneer badge"><br><sub><b>AI Security Pioneer</b></sub></td><td align="center" width="25%"><img src="badges/api-defender.png" width="110" alt="API Defender badge"><br><sub><b>API Defender</b></sub></td><td align="center" width="25%"><img src="badges/lab-builder.png" width="110" alt="Lab Builder badge"><br><sub><b>Lab Builder</b></sub></td></tr>
+<tr><td align="center" width="25%"><img src="badges/open-source-mentor.png" width="110" alt="Open Source Mentor badge"><br><sub><b>Open Source Mentor</b></sub></td><td align="center" width="25%"><img src="badges/cybersectober-champion.png" width="110" alt="CyberSecTOBER Champion badge"><br><sub><b>CyberSecTOBER Champion</b></sub></td></tr>
+</table>
+
 ## 🛡️ Safety first
 
 Everything here is for **education and defense**. No malware, credential stealers, phishing kits, attacks on real organizations, real credentials or personal data. Labs must be deliberately vulnerable and run locally. Full rules in [CONTRIBUTING.md](CONTRIBUTING.md).
