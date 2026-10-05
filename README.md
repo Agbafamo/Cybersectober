@@ -10,6 +10,8 @@ CyberSecTOBER is a month-long open-source cybersecurity challenge for Cybersecur
 
 **Star this repo:** click the **Star** button at the top right of the [repo page](https://github.com/CyberSecTober/Cybersectober), next to **Fork** (on a phone, it's just under the repo name). It's free, takes one second, and helps more people find CyberSecTOBER. You need to be signed in to GitHub.
 
+**Want the short version?** Read the one-page guide: [How to join CyberSecTOBER](https://cybersectober.github.io/Cybersectober/join/).
+
 **Never used GitHub before? You're in the right place.** This page walks you through everything step by step. You don't need to know how to code, and you don't need to install anything.
 
 ## Table of contents
